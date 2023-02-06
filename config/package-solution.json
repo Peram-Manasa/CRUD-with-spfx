@@ -1,0 +1,40 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/package-solution.schema.json",
+  "solution": {
+    "name": "frame-client-side-solution",
+    "id": "b7982a53-9bcd-48f8-8b4e-585ba37b7716",
+    "version": "1.0.0.0",
+    "includeClientSideAssets": true,
+    "skipFeatureDeployment": true,
+    "isDomainIsolated": false,
+    "developer": {
+      "name": "",
+      "websiteUrl": "",
+      "privacyUrl": "",
+      "termsOfUseUrl": "",
+      "mpnId": "Undefined-1.16.1"
+    },
+    "metadata": {
+      "shortDescription": {
+        "default": "Frame description"
+      },
+      "longDescription": {
+        "default": "Frame description"
+      },
+      "screenshotPaths": [],
+      "videoUrl": "",
+      "categories": []
+    },
+    "features": [
+      {
+        "title": "frame Feature",
+        "description": "The feature that activates elements of the frame solution.",
+        "id": "1e7ee962-6ba0-47ba-b069-db552383f11b",
+        "version": "1.0.0.0"
+      }
+    ]
+  },
+  "paths": {
+    "zippedPackage": "solution/frame.sppkg"
+  }
+}
