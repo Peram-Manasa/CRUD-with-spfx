@@ -22,7 +22,11 @@
     "description": { "default": "sharepointframe description" },
     "officeFabricIconFontName": "Page",
     "properties": {
-      "description": "sharepointframe"
+      "description": "sharepointframe",
+      "listName": "string",
+      "listColumn": "string",
+      "webURLFieldLabel":""
+      
     }
   }]
 }

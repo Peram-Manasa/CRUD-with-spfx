@@ -1,6 +1,8 @@
 declare interface ISharepointframeWebPartStrings {
+  ListFieldLabel: string;
   PropertyPaneDescription: string;
   BasicGroupName: string;
+  webURLFieldLabel:string;
   DescriptionFieldLabel: string;
   AppLocalEnvironmentSharePoint: string;
   AppLocalEnvironmentTeams: string;
